@@ -1,0 +1,10 @@
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\config\DynamoDBConfig.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\dto\ResponseDTO.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\service\EmployeeService.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\SpringDynamodbApplication.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\service\EmployeeServiceImpl.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\controller\EmployeeController.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\exception\EmployeeException.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\config\AwsProperties.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\dto\EmployeeDTO.java
+E:\spring-boot-dynamo-db-crud-project\src\main\java\com\samundar\springdynamodb\entity\Employee.java
